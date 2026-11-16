@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs & Editors
+.vscode/
+.idea/
+
+# Excel temporary lock files (keeps actual .xls/.xlsx files)
+~$*.xls*
