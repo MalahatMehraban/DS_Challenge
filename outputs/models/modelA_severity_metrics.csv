@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,F1_Score,ROC_AUC,PR_AUC,Brier_Score,Best_Threshold,Top_10pct_Actual_Major_Rate,Top_10pct_Lift
+Logistic Regression (Baseline),0.7778,0.512,0.6311,0.5654,0.807,0.5751,0.1357,0.281,0.6621,2.89
+Random Forest (Main),0.7999,0.5592,0.5956,0.5768,0.8318,0.6106,0.1352,0.293,0.7102,3.1
